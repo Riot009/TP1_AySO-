@@ -1,0 +1,42 @@
+ls
+cd repogit/
+ls
+cd TP1_AySO-/
+ls
+grep "model name" /proc/cpuinfo | head --n1 >>datos_usuarios.txt
+git status
+git commit -m "feat: Añadiendo información de CPU"
+git add datos_usuarios.txt 
+git commit -m "feat: Añadiendo información de CPU"
+git status
+cat datos_usuario.txt 
+grep "model name" /proc/cpuinfo | head --n1 >>datos_usuarios.txt
+cat datos_usuario.txt 
+grep "model name" /proc/cpuinfo 
+grep "model name" /proc/cpuinfo | head -n1 >>datos_usuarios.txt
+cat datos_usuario.txt 
+grep "model name" /proc/cpuinfo | head -n1>>datos_usuarios.txt
+cat datos_usuario.txt 
+cat datos_usuario.txt
+cat datos_usuarios.txt
+git status
+git commit -m "feat: Añadiendo información de CPU"
+git add
+git add datos_usuarios.txt 
+
+clear
+git status
+git commit -m "feat: Añadiendo información de CPU"
+cat datos_usuario.txt 
+cat datos_usuarios.txt 
+cat <<EOF >> README.md
+Alumno: Diego Zabaleta
+División: 318
+Turno: Noche
+EOF
+
+git add README.md 
+git status
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+history -a
