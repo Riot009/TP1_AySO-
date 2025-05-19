@@ -1,0 +1,2 @@
+model name	: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+model name	: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
